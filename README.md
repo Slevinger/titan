@@ -50,7 +50,7 @@ This project is a scalable **Node.js** application built with **TypeScript**, **
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-repo/mongoose-typescript-app.git
+   git clone https://github.com/Slevinger/titan.git
    cd mongoose-typescript-app
    ```
 
